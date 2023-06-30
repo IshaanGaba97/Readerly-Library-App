@@ -1,0 +1,59 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+body{
+background-color: rgba(247, 247, 247, 0.007);
+width: 100vw;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 30px 0px 50px 0px;
+}
+
+.footer{
+    background-color: #393e45;
+    color: white;
+    height: 50px;
+    margin: auto;
+  }
+
+
+  .home{
+      background-image: url('./images/abstract-blur-defocused-bookshelf-library\ \(1\).jpg');
+      min-height: 100vh;
+      min-width: 100vw;
+    }
+
+  .darkbg{
+      background-color: rgba(162, 162, 162, 0.389);
+      opacity: 0.6;
+      color: rgb(0, 0, 0);
+      size: 4rem;
+  }
+
+  table, th, td {
+    border: 1px solid white;
+  }
+
+  table {
+      min-width: 40%
+  }
+
+  .heading{
+      margin-top: 70px;
+  }
+
+  .full{
+      min-height: 100vh;
+  }
+
+  .Option{
+      cursor: pointer;
+  }
+
+  .loading{
+min-height: 100vh;
+  }
