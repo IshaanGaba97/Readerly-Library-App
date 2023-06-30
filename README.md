@@ -26,7 +26,7 @@ This is a Library Management Application built using MERN Stack.
 ## How to run the app locally 👨‍💻
 1. `cd server`
 2. Install dependencies with `yarn` or `npm i`.
-3. Run backend server with `npm server` or `npm start`
+3. Run backend server & connect to db with `npm server` or `npm start`
 4. `cd ..` To get out of the server folder then `cd client`
 5. Once you’re in client `npm i` and `npm start`.
 
@@ -38,5 +38,13 @@ This is a Library Management Application built using MERN Stack.
 
 
 ## 🛠 Tech Stack
-ReactJS, Express, NodeJS, MongoDB, Redux, JWT, Passport.js
+`ReactJS` `Express` `NodeJS` `MongoDB` `Redux` `JWT` `Passport.js` `React-bootstrap`
+
+
+## Deployment
+
+```bash
+  Server is deployed using render.com.
+  Frontend is deploy using netlify.
+```
 
