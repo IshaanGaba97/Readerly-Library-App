@@ -1,13 +1,13 @@
 
-# Readerly Library ⭐
+# Readerly Library ✨
 
 This is a Library Management Application built using MERN Stack.
 
-## Features ✨
+## Features 🚀
 
 ### Admin –
 1.	Login into the admin account.
-2.	For admin credentials are : Username : admin  Password : 123456.
+2.	For admin credentials are : Username :  admin,  Password :`123456.
 3.	Admin can edit/modify existing books.
 4.	Admin can add new books.
 5.	Admin can Issue books to students.
@@ -22,6 +22,13 @@ This is a Library Management Application built using MERN Stack.
 4.	Search for books and view availability.
 5.	Student can view his issue history.
 
+
+## How to run the app locally 👨‍💻
+1. `cd server`
+2. Install dependencies with `yarn` or `npm i`.
+3. Run backend server with `npm server` or `npm start`
+4. `cd ..` To get out of the server folder then `cd client`
+5. Once you’re in client `npm i` and `npm start`.
 
 <!-- ## Screenshots
 
